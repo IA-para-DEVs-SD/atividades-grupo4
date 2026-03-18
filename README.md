@@ -25,3 +25,4 @@ Este script verifica se uma lista de números contém elementos repetidos. Foram
 - **Abordagem com IA:** utiliza `set()` para eliminar duplicatas e compara o tamanho da lista original com o do conjunto resultante. Se forem diferentes, existem duplicatas. Essa solução é mais eficiente, rodando em tempo linear O(n).
 
 O script testa ambas as funções com duas listas de exemplo e imprime os resultados no terminal.
+ 
